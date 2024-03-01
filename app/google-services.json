@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525331547324",
+    "firebase_url": "https://hello-world-5230b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hello-world-5230b",
+    "storage_bucket": "hello-world-5230b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525331547324:android:1f6cc41827e04d10723cb9",
+        "android_client_info": {
+          "package_name": "com.example.firestorepklearnings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525331547324-attheqqffm87qts1s1cl091evivkpt1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyluYOk1XrGzMxbUjSGEpf1NmOrQ57DOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525331547324-attheqqffm87qts1s1cl091evivkpt1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
